@@ -2,10 +2,10 @@
 
 [https://inspiring-easley-4b1452.netlify.com](https://inspiring-easley-4b1452.netlify.com)
 
-A task list app created as part of the "Modern JavaScript from the Begining" Udemy course by the amazing Brad Traversy. The Task List project uses the Materialize css library.
+A task list app created as part of the "Modern JavaScript from the Begining" Udemy course by the amazing Brad Traversy.\
 [https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/overview](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/overview)
 
-The Task List app is the first of the projects in this course.
+The Task List project uses the Materialize css library.
 
 This task list can be used [here.](https://inspiring-easley-4b1452.netlify.com)
 
